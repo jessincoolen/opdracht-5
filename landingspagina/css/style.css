@@ -1,0 +1,136 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    padding: auto;
+}
+
+body{
+   background-image:url(../img/specna-arms-Um9WPLvWV_M-unsplash.jpg);
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+/*navbar*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+  
+  li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+    /*contact page*/ 
+.contact-title{
+    margin-top: 50px;
+    color: black;
+    text-transform: uppercase;
+  }
+  
+  .contact-title h1{
+    font-size: 32px;
+    line-height: 10px;
+  }
+  
+  .contact-title h2{
+    font-size: 16px;
+  }
+  
+  form{
+    margin-top: 40px;
+  }
+  
+  .form-control{
+    width: 600px;
+    background: white;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: green;
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+  
+  input{
+    height: 40px;
+  }
+  
+  form .submit{
+    background: #e56a54;
+    border-color: transparent;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+  }
+  
+  form .submit:hover{
+    background-color: #e56a54;
+    cursor: pointer;
+  }
+  
+  .contact-1{
+    font-size: 18px;
+  margin-bottom: 16px;
+  color: #e56a54;
+  }
+  
+  .stef{
+    float: left;
+    padding-left: 10%;
+  }
+  
+  .jessin{
+    float: right;
+    padding-right: 10%;
+  }
+  
+  hr{
+  background-color: #e56a54;
+  width: 80%;
+  }
+  /*contact form done*/
