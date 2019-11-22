@@ -12,7 +12,6 @@
         <!--navbar-->
         <ul>
             <li><a href="../html/index.html">Home</a></li>
-            <li><a href="./about.html">About</a></li>
             <li class="dropdown">
               <a href="javascript:void(0)" class="dropbtn">platforms</a>
               <div class="dropdown-content">
@@ -24,26 +23,35 @@
           </ul>
     </header>
 
-    <div class="contact-title">
-            <h1 align="center" style="font-family: sans-serif; color: #e56a54;">contact</h1>
-            <br>
-            <h2 align="center" style="font-family: sans-serif;">U kunt ons 24 uur per dag, 7 dagen in de week contacteren</h2>
-        </div>
-<main style="float: center; width: 40%;">
-
-<!--contact form-->
-    <div class="contact-form">
-        <form id="contact-form" method="post" action="../php/contact-form-handler.php">
-            <input name="name" type="text" class="form-control" placeholder="Uw naam" required>
-        <br>
-            <input name="email" type="email" class="form-control" placeholder="Uw emailadres" required>
-        <br>
-            <textarea name="message" class="form-control" placeholder="Bericht" rows="4" required></textarea>
-        <br>
-            <input type="submit" class="form-control submit" value="Verstuur bericht">
-
-        </form>
-    </div>
-</main>
+ <main>
+        <div class="row">
+                <div style="background-color: white;" class="column">
+                  <div class="card">
+                    <img src="../img/stef snijder.jpg" alt="Jane" style="width:100%">
+                    <div class="container">
+                      <h2>Stef Snijder</h2>
+                      <p class="title">CEO &amp; Founder</p>
+                      <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                      <p>komen icons</p>
+                      <p><button class="button">Contact</button></p>
+                    </div>
+                  </div>
+                </div>
+              
+                <div style="background-color: white;" class="column">
+                  <div class="card">
+                    <img src="img2.jpg" alt="Mike" style="width:100%">
+                    <div class="container">
+                      <h2>Jessin Coolen</h2>
+                      <p class="title">Art Director</p>
+                      <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                      <p>example@example.com</p>
+                      <p><button class="button">Contact</button></p>
+                    </div>
+                  </div>
+                </div>
+              
+              </div>
+ </main>
 </body>
 </html>
