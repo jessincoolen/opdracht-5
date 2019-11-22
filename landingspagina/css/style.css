@@ -188,3 +188,9 @@ ul {
 .button:hover {
   background-color: #555;
 }
+  /*home*/
+
+  .trailer{
+    margin: 0 auto;
+    display: block;
+  }
