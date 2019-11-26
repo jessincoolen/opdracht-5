@@ -63,7 +63,8 @@ ul {
   }
 
     /*contact page*/ 
-.contact-title{
+  /*contact page*/ 
+  .contact-title{
     margin-top: 50px;
     color: black;
     text-transform: uppercase;
@@ -84,7 +85,7 @@ ul {
   
   .form-control{
     width: 600px;
-    background: white;
+    background: transparent;
     border: none;
     outline: none;
     border-bottom: 1px solid gray;
@@ -134,7 +135,7 @@ ul {
   width: 80%;
   }
   /*contact form done*/
-
+  
   /*contact page project*/
       /* Three columns side by side */
 .column {
