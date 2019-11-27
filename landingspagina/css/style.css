@@ -206,3 +206,23 @@ color: crimson;
     margin-top:6px;
     
   }
+
+  .contend-main{
+    padding-left: 10%;
+    color:  rgb(0, 0, 0);
+    width: 80%;
+  }
+
+  footer{
+    background-color: rgba(0, 0, 0, 0.63);
+    color: white;
+    
+  }
+  footer h6{
+    padding-left: 5%;
+  }
+
+  main{
+    background-color: white;
+
+  }
