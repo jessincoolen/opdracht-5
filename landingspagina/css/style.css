@@ -64,6 +64,8 @@ ul {
 
 /*website layout*/
 .main1 {
+  margin-left: 8px;
+  margin-top: 8px;
   float: left;
   width: 67%;
   display: block;
