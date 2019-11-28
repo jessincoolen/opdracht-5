@@ -63,7 +63,7 @@ ul {
   }
 
 /*website layout*/
-main {
+.main1 {
   float: left;
   width: 67%;
   display: block;
@@ -71,7 +71,7 @@ main {
 
 } 
 
-aside {
+.aside1 {
   float: right;
   width: 28%;
   display: block;
