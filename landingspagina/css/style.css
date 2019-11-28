@@ -278,7 +278,7 @@ color: crimson;
   .contend-main{
     padding-left: 10%;
     padding-right: 10%;
-    color:  rgb(0, 0, 0);
+    color:  rgb(255, 255, 255);
     width: 80%;
   }
 
@@ -288,6 +288,7 @@ color: crimson;
   }
 
   .main{
-    background-color: white;
+    background: rgb(0,0,0);
+background: linear-gradient(155deg, rgba(0,0,0,1) 0%, rgba(178,157,105,1) 52%, rgba(0,0,0,1) 100%);
 
   }
