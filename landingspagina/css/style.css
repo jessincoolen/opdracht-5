@@ -68,6 +68,7 @@ ul {
   width: 67%;
   display: block;
   min-height: 300px;
+  background-color: rgba(0, 0, 0, 0.65);
 
 } 
 
@@ -79,7 +80,22 @@ ul {
 }
 
 /*alle font styles*/
+ h2{
+   color: white;
+ }
 
+ h4{
+  color: white;
+ }
+
+ h6{
+   color: white;
+   font-size: 14pt;
+ }
+
+ p.tand1{
+   color: white;
+ }
 /*reviews playstation*/
 p.review1 {
   border: 1px solid gray;
@@ -263,11 +279,7 @@ color: crimson;
     width: 80%;
   }
 
-  footer{
-    background-color: rgba(0, 0, 0, 0.63);
-    color: white;
-    
-  }
+
   footer h6{
     padding-left: 5%;
   }
