@@ -139,8 +139,8 @@ p.review1 {
     background: transparent;
     border: none;
     outline: none;
-    border-bottom: 1px solid gray;
-    color: green;
+    border-bottom: 1px solid white;
+    color: white;
     font-size: 18px;
     margin-bottom: 16px;
   }
