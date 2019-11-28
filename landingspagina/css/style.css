@@ -99,7 +99,7 @@ ul {
   }
   
   form .submit{
-    background: #e56a54;
+    background: red;
     border-color: transparent;
     color: #fff;
     font-size: 20px;
@@ -110,7 +110,7 @@ ul {
   }
   
   form .submit:hover{
-    background-color: #e56a54;
+    background-color: red;
     cursor: pointer;
   }
   
