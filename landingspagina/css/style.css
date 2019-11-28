@@ -32,7 +32,7 @@ ul {
   }
   
   li a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color:  #b29d69;
   }
   
   li.dropdown {
@@ -148,7 +148,7 @@ p.review1 {
   }
   
   form .submit{
-    background: red;
+    background:  #b29d69;
     border-color: transparent;
     color: #fff;
     font-size: 20px;
@@ -159,14 +159,14 @@ p.review1 {
   }
   
   form .submit:hover{
-    background-color: red;
+    background-color:  #b29d69;
     cursor: pointer;
   }
   
   .contact-1{
     font-size: 18px;
   margin-bottom: 16px;
-  color: red;
+  color:  #b29d69;
   }
   
   .stef{
@@ -180,7 +180,7 @@ p.review1 {
   }
   
   hr{
-  background-color:red;
+  background-color: #b29d69;
   width: 80%;
   }
 
@@ -275,6 +275,7 @@ color: crimson;
   }
   .contend-main{
     padding-left: 10%;
+    padding-right: 10%;
     color:  rgb(0, 0, 0);
     width: 80%;
   }
