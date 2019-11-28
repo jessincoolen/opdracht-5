@@ -117,7 +117,7 @@ ul {
   .contact-1{
     font-size: 18px;
   margin-bottom: 16px;
-  color: #e56a54;
+  color: red;
   }
   
   .stef{
@@ -131,7 +131,7 @@ ul {
   }
   
   hr{
-  background-color: #e56a54;
+  background-color:red;
   width: 80%;
   }
   /*contact form done*/
