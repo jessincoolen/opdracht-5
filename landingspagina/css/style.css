@@ -79,7 +79,17 @@ ul {
 }
 
 /*alle font styles*/
+ h2{
+   color: white;
+ }
 
+ h4{
+  color: white;
+ }
+
+ h6{
+   color: white;
+ }
 /*reviews playstation*/
 p.review1 {
   border: 1px solid gray;
@@ -263,11 +273,7 @@ color: crimson;
     width: 80%;
   }
 
-  footer{
-    background-color: rgba(0, 0, 0, 0.63);
-    color: white;
-    
-  }
+
   footer h6{
     padding-left: 5%;
   }
